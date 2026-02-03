@@ -35,7 +35,7 @@
 
 <h3>Tools</h3>
 <p>
-  Git • GitHub • VS Code • Figma • npm
+  Git • GitHub • VS Code • Figma
 </p>
 
 <hr>
@@ -57,7 +57,7 @@
 <p>
   Linkdin: <a href="https://www.linkedin.com/in/elesh-vaishnav-222677229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">EleshVaishnav</a><br>
   Portfolio: (https://eleshvaish01.wixsite.com/eleshvaishnav)<br>
-  Email: eleshvaish01@gmail.com
+  Email: "eleshvaish01@gmail.com"<br>
 </p>
 
 <hr>
