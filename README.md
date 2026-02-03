@@ -8,7 +8,7 @@
 
 <h2>🌐 Live Portfolio</h2>
 <p>
-  🔗 <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://your-portfolio-link.com" target="_blank">
   View My Portfolio
   </a>
 </p>
@@ -30,7 +30,7 @@
 
 <h3>Frontend</h3>
 <p>
-  HTML5 • CSS3 • JavaScript • React • Framer Motion • GSAP
+  HTML5 • CSS • JavaScript • React • Framer Motion • GSAP • Python
 </p>
 
 <h3>Tools</h3>
@@ -40,7 +40,7 @@
 
 <hr>
 
-<h2>✨ Featured Projects</h2>
+<h2>✨ Featured Project</h2>
 
 <h3>🎮 Interactive Portfolio Website</h3>
 <ul>
@@ -49,46 +49,15 @@
   <li>Motion effects</li>
   <li>Interactive intro experience</li>
 </ul>
-<p>
-  🔗 Repo: <a href="https://github.com/yourusername/project">View Repo</a><br>
-  🌍 Live: <a href="https://live-link.com">Live Demo</a>
-</p>
-
-<h3>💘 Valentine Interactive Site</h3>
-<ul>
-  <li>Pixel / 8-bit animation</li>
-  <li>Click interaction</li>
-  <li>Custom theme UI</li>
-</ul>
-
-<hr>
-
-<h2>📸 Screenshots</h2>
-
-<p>
-  <img src="assets/preview1.png" width="600"><br>
-  <img src="assets/preview2.png" width="600">
-</p>
-
-<hr>
-
-<h2>📦 Run Locally</h2>
-
-<pre>
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
-npm install
-npm start
-</pre>
 
 <hr>
 
 <h2>📫 Contact</h2>
 
 <p>
-  GitHub: <a href="https://github.com/yourusername">yourusername</a><br>
-  Portfolio: https://your-site.com<br>
-  Email: yourmail@example.com
+  Linkdin: <a href="https://www.linkedin.com/in/elesh-vaishnav-222677229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">EleshVaishnav</a><br>
+  Portfolio: (https://eleshvaish01.wixsite.com/eleshvaishnav)<br>
+  Email: eleshvaish01@gmail.com
 </p>
 
 <hr>
